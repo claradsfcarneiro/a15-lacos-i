@@ -1,5 +1,5 @@
 let numeroTabuada = 1;
-let numeroInput = Number(prompt("Digite um número"));
+const numeroInput = Number(prompt("Digite um número"));
 let resultadoMultiplicacao;
 
 console.log(`A tabuada do número ${numeroInput} é a seguinte:`)
